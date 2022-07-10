@@ -10,7 +10,7 @@ You can add courses and
 students to the system
 using this application. Courses
 can be added to a student's schedule.
-That course can also be dropped.
+That course can also be dropped later.
 Course Registration Status, Course Information,
 Class List, and Student's Schedule
 are written to the text files.
